@@ -10,7 +10,7 @@ from pandas_profiling import ProfileReport, profile_report
 
 st.markdown('''
         # Exploratory Data Analysis Web App
-        This app is developed by DigiPro Developers called **EDA App**        
+        This app is developed by The Bukhari called **EDA App**        
         ''')
 
 
